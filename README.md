@@ -16,13 +16,17 @@ Host:
 ## Inloggegevens
 Er zijn al een paar accounts aangemaakt die de docent kan gebruiken
 
- | Username | Paswoord | Rol
-  --- | --- | --- | ---
-1 | docent | erasmus1234567 | gebruiker
+nr | Username | Paswoord | Rol
  --- | --- | --- | ---
 1 | docent | erasmus1234567 | gebruiker
  --- | --- | --- | ---
 1 | docent | erasmus1234567 | gebruiker
+
+|               | Username                | Paswoord                |Rol
+| ------------- | ----------------------- | ----------------------- |-----------------------|
+| 1             | docent                  | erasmus1234567          |gebruiker              |
+| 1             | docent                  | erasmus1234567          |gebruiker              |
+| 1             | docent                  | erasmus1234567          |gebruiker              |
 
 ## Beschrijving:
 De frontend is een forum waar de gebruiker berichten op kan posten. 
