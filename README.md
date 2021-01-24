@@ -2,8 +2,8 @@
 Door Christian van den Puttelaar
 
 Publieke url:
-Frontend --> [Klik hier om naar web app te gaan](https://www.opdracht.comagexinvoice.com/) of gebruik deze link https://www.opdracht.comagexinvoice.com/
-Backend --> [Klik hier om naar REST API te gaan](https://opdracht-security.herokuapp.com/api) of gebruik deze link https://opdracht-security.herokuapp.com/api
+* Frontend --> [Klik hier om naar web app te gaan](https://www.opdracht.comagexinvoice.com/) of gebruik deze link https://www.opdracht.comagexinvoice.com/
+* Backend --> [Klik hier om naar REST API te gaan](https://opdracht-security.herokuapp.com/api) of gebruik deze link https://opdracht-security.herokuapp.com/api
 
 Dit werkstuk bestaat uit 2 applicaties:
 * Frontend bestaat uit een SPA in Vue.js
@@ -23,8 +23,8 @@ Er zijn 2 rollen:
 ## Verwerkingsregister
 Het verwerkingsregister is in de root van de git repository te vinden. Het is een word document
 Hier is de link ernaar
-[Ga naar verwerkingsregister](https://github.com/Gitisfun/securitywerkstuk/blob/master/Verwerkingsregister.docx)
-Volledige link: https://github.com/Gitisfun/securitywerkstuk/blob/master/Verwerkingsregister.docx
+* [Ga naar verwerkingsregister](https://github.com/Gitisfun/securitywerkstuk/blob/master/Verwerkingsregister.docx)
+* Volledige link: https://github.com/Gitisfun/securitywerkstuk/blob/master/Verwerkingsregister.docx
 
 ## REST API
 Hieronder volgt een tabel met de routes van REST API
