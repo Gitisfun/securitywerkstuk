@@ -45,7 +45,7 @@ Hieronder volgt een tabel met de routes van REST API
 
 | Resource | Operatie| Http methode| Parameter | Toegang |
 | ------------- | ----------------------- | ----------------------- |------------------- |------------------- |
-| /comments | oplijsten | GET| Geen | gebruiker,  beheerder | 
+| /comments | oplijsten | GET| Geen | iedereen | 
 | | get by id| GET| id| gebruiker,  beheerder | 
 | | create| POST|Geen | gebruiker| 
 | | update| PUT| id| gebruiker| 
