@@ -41,6 +41,12 @@ Hier is de link ernaar
 ## REST API
 Hieronder volgt een tabel met de routes van REST API
 
-Attempt |  | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+### Toegangspolicy
+
+| Resource      | Operatie                | Http methode            |Parameter                |Toegang
+| ------------- | ----------------------- | ----------------------- |-----------------------|
+| /comments     | oplijsten                  | GET        | Geen         |gebruiker, beheerder              |
+|               | comment by id                   | GET     | id              |gebruiker, beheerder              |
+|              | aanmaken                   | POST    | Geen                |gebruiker              |
+|              | aanpassen                   | PUT     | id                |gebruiker              |
+|              | verwijderen                  | DELETE     | id               |gebruiker, beheerder              |
