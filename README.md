@@ -49,4 +49,12 @@ Hieronder volgt een tabel met de routes van REST API
 | | get by id| GET| id| gebruiker,  beheerder | 
 | | create| POST|Geen | gebruiker| 
 | | update| PUT| id| gebruiker| 
-| | update| DELETE| id| gebruiker,  beheerder | 
+| | delete| DELETE| id| gebruiker,  beheerder | 
+| /bezwaar| oplijsten | GET| Geen | gebruiker,  beheerder | 
+| | create| POST|Geen | gebruiker| 
+| /login| inloggen| POST| Geen | iedereen | 
+| /register| register| POST| Geen | iedereen | 
+| /confirmation| confirmatie voor email| GET| token| gebruiker, beheerder| 
+|/users | get by id| GET| id| gebruiker,  beheerder | 
+| | update| PUT| id| gebruiker| 
+| | delete| DELETE| id| gebruiker,  beheerder | 
