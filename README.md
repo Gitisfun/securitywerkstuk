@@ -15,7 +15,8 @@ Host:
 
 ## Inloggegevens
 Er zijn al een paar accounts aangemaakt die de docent kan gebruiken
-| Username | Paswoord | Rol
+
+ | Username | Paswoord | Rol
 --- | --- | --- | ---
 1 | docent | erasmus1234567 | gebruiker
 --- | --- | --- | ---
