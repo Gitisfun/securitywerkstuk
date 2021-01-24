@@ -56,5 +56,5 @@ Hieronder volgt een tabel met de routes van REST API
 | /register| register| POST| Geen | iedereen | 
 | /confirmation| confirmatie voor email| GET| token| gebruiker, beheerder| 
 |/users | get by id| GET| id| gebruiker,  beheerder | 
-| | update| PUT| id| gebruiker| 
+| | update| PUT| id| gebruiker, beheerder| 
 | | delete| DELETE| id| gebruiker,  beheerder | 
