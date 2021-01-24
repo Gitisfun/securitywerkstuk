@@ -13,6 +13,15 @@ Host:
 * Frontend is gehost op [fastcomet](https://www.fastcomet.com/)
 * Backend is gehost op [Heroku](https://www.heroku.com/)
 
+## Inloggegevens
+Er zijn al een paar accounts aangemaakt die de docent kan gebruiken
+
+ | Username | Paswoord | Rol
+--- | --- | --- | ---
+  1 | docent | erasmus1234567 | gebruiker
+  1 | docent | erasmus1234567 | gebruiker
+  1 | docent | erasmus1234567 | gebruiker
+
 ## Beschrijving:
 De frontend is een forum waar de gebruiker berichten op kan posten. 
 Hij kan de berichten lezen maar moet ingelogd zijn om zelf een bericht te plaatsen.
