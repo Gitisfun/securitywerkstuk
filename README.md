@@ -1,9 +1,17 @@
 # Werkstuk security
 Door Christian van den Puttelaar
 
+Publieke url:
+Frontend --> [Klik hier om naar web app te gaan](https://www.opdracht.comagexinvoice.com/) of gebruik deze link https://www.opdracht.comagexinvoice.com/
+Backend --> [Klik hier om naar REST API te gaan](https://opdracht-security.herokuapp.com/api) of gebruik deze link https://opdracht-security.herokuapp.com/api
+
 Dit werkstuk bestaat uit 2 applicaties:
 * Frontend bestaat uit een SPA in Vue.js
 * Backend bestaat uit een REST API in Express.js
+
+Host:
+* Frontend is gehost op [fastcomet](https://www.fastcomet.com/)
+* Backend is gehost op [Heroku](https://www.heroku.com/)
 
 ## Beschrijving:
 De frontend is een forum waar de gebruiker berichten op kan posten. 
@@ -16,3 +24,11 @@ Er zijn 2 rollen:
 Het verwerkingsregister is in de root van de git repository te vinden. Het is een word document
 Hier is de link ernaar
 [Ga naar verwerkingsregister](https://github.com/Gitisfun/securitywerkstuk/blob/master/Verwerkingsregister.docx)
+Volledige link: https://github.com/Gitisfun/securitywerkstuk/blob/master/Verwerkingsregister.docx
+
+## REST API
+Hieronder volgt een tabel met de routes van REST API
+
+Attempt |  | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
