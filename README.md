@@ -17,11 +17,11 @@ Host:
 Er zijn al een paar accounts aangemaakt die de docent kan gebruiken
 
  | Username | Paswoord | Rol
---- | --- | --- | ---
+  --- | --- | --- | ---
 1 | docent | erasmus1234567 | gebruiker
---- | --- | --- | ---
+ --- | --- | --- | ---
 1 | docent | erasmus1234567 | gebruiker
---- | --- | --- | ---
+ --- | --- | --- | ---
 1 | docent | erasmus1234567 | gebruiker
 
 ## Beschrijving:
