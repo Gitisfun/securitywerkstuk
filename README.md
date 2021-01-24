@@ -43,10 +43,10 @@ Hieronder volgt een tabel met de routes van REST API
 
 ### Toegangspolicy
 
-| Resource      | Operatie                | Http methode            |Parameter                |Toegang
-| ------------- | ----------------------- | ----------------------- |-----------------------|
-| /comments     | oplijsten                  | GET        | Geen         |gebruiker, beheerder              |
-|               | comment by id                   | GET     | id              |gebruiker, beheerder              |
-|              | aanmaken                   | POST    | Geen                |gebruiker              |
-|              | aanpassen                   | PUT     | id                |gebruiker              |
-|              | verwijderen                  | DELETE     | id               |gebruiker, beheerder              |
+| Resource | Operatie| Http methode| Parameter | Toegang |
+| ------------- | ----------------------- | ----------------------- |------------------- |------------------- |
+| /comments | oplijsten | GET| Geen | gebruiker,  beheerder | 
+| | get by id| GET| id| gebruiker,  beheerder | 
+| | create| id | POST| gebruiker| 
+| | update| id | PUT| gebruiker| 
+| | update| id | DELETE| gebruiker,  beheerder | 
